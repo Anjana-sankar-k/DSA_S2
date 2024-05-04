@@ -11,7 +11,7 @@ template <class T>
   	Array();
   	Array(int,int,T[]);
 	  void insert_at_end(T);
-      void rotateClockwise(int);
+          void rotateClockwise(int);
 	  void rotateAntiClockwise(int);
 	  void printDistinctElements();
 	  void generateFrequencyTable();
